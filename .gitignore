@@ -1,0 +1,6 @@
+node_modules/
+*.log
+.firebase/
+# NUNCA subas llaves de cuentas de servicio
+*service-account*.json
+*-firebase-adminsdk-*.json
